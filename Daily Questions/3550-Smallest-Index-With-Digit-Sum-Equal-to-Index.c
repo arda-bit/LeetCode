@@ -1,3 +1,5 @@
+//Daily Question of 24.09.2026
+
 int numSum(int x){
     if(x == 0){
         return 0;
